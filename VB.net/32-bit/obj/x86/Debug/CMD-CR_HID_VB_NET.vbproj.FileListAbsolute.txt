@@ -1,0 +1,25 @@
+K:\Sample code\VB.net\32-bit\bin\Debug\CMDHidApi.dll
+K:\Sample code\VB.net\32-bit\bin\Debug\CMD-4CR Control Software.exe.manifest
+K:\Sample code\VB.net\32-bit\bin\Debug\CMD-4CR Control Software.application
+K:\Sample code\VB.net\32-bit\bin\Debug\CMD-4CR Control Software.exe
+K:\Sample code\VB.net\32-bit\bin\Debug\CMD-4CR Control Software.pdb
+K:\Sample code\VB.net\32-bit\bin\Debug\CMD-4CR Control Software.xml
+K:\Sample code\VB.net\32-bit\bin\Debug\Interop.AcroPDFLib.dll
+K:\Sample code\VB.net\32-bit\bin\Debug\AxInterop.AcroPDFLib.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Interop.AcroPDFLib.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Interop.MSComDlg.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Interop.MSCommLib.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Interop.MSWinsockLib.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-CR_HID_VB_NET.vbproj.ResolveComReference.cache
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Commander_Terminal_VB_NET.frmInputOutput.resources
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Commander_Terminal_VB_NET.frmMain.resources
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Commander_Terminal_VB_NET.Resources.resources
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\Commander_Terminal_VB_NET.frmTerminal.resources
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-CR_HID_VB_NET.vbproj.GenerateResource.cache
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.TrustInfo.xml
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.exe.manifest
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.application
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.exe
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.xml
+K:\Sample code\VB.net\32-bit\obj\x86\Debug\CMD-4CR Control Software.pdb
